@@ -4,7 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeojihyang&count_bg=%23C4D776&title_bg=%23FFCACA&icon=github.svg&icon_color=%23FF5959&title=PuiPui&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=joan0727)](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=joan0727)](https://solved.ac/joan0727)
 
 
 ![Heojihyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heojihyang&show_icons=true&theme=onedark)
