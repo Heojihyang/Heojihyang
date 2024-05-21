@@ -7,9 +7,8 @@
 
 ![Heojihyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heojihyang&show_icons=true&theme=onedark)
  
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=heo-aim%20&theme=dark)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=heo-aim&theme=vue)](https://heo-aim.tistory.com)
 <br>
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=heo-aim&theme=vue)](https://heo-aim.tistory.com)
 
 
 </div>
