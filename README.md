@@ -5,7 +5,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=joan0727)](https://solved.ac/joan0727)
  
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=heo-aim&theme=vue)](https://heo-aim.tistory.com)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=heo-aim &theme=vue)](https://heo-aim.tistory.com)
 
 ![Heojihyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heojihyang&show_icons=true&theme=onedark)
 
