@@ -7,7 +7,6 @@
  
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=heo-aim&theme=vue)](https://heo-aim.tistory.com)
 
-![Heojihyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heojihyang&show_icons=true&theme=onedark)
 
 <br>
 
